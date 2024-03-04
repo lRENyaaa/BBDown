@@ -10,7 +10,7 @@
 * 杜比视界：ffmpeg5.0以上或新版mp4box.
 
 # 快速开始
-本软件已经以 [Dotnet Tool](https://www.nuget.org/packages/BBDown/) 形式发布  
+本软件已经以 [Dotnet Tool](https://www.nuget.org/packages/BBDown/ ) 形式发布  
 
 如果你本地有dotnet环境，使用如下命令即可安装使用
 ```
